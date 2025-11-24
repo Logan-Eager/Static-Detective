@@ -1,0 +1,20 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"D:/local/lea46/SplitDetective/SplitDetective/Content/StarterContent/Architecture/Floor_400x400.uasset",
+				"D:/local/lea46/SplitDetective/SplitDetective/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/5/8C/EAHCBN229IT8APJO305AH5.uasset",
+				"D:/local/lea46/SplitDetective/SplitDetective/Content/FirstPerson/Input/IMC_Default.uasset",
+				"D:/local/lea46/SplitDetective/SplitDetective/Content/FirstPerson/Blueprints/BP_FirstPersonCharacter.uasset",
+				"D:/local/lea46/SplitDetective/SplitDetective/Content/FirstPerson/Input/Actions/IA_Move.uasset",
+				"D:/local/lea46/SplitDetective/SplitDetective/Content/FirstPerson/Input/IA_StaticUp.uasset",
+				"D:/local/lea46/SplitDetective/SplitDetective/Content/FirstPerson/Input/IA_StaticDown.uasset",
+				"D:/local/lea46/SplitDetective/SplitDetective/Content/FirstPerson/Input/IA_StaticScroll.uasset",
+				"D:/local/lea46/SplitDetective/SplitDetective/Content/FirstPerson/Input/Actions/IA_StaticScroll.uasset"
+			]
+		}
+	]
+}
